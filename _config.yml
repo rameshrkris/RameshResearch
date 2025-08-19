@@ -1,0 +1,5 @@
+title: "Ramesh's Research Page"
+description: "Academic Portfolio and Blog"
+theme: minima
+plugins:
+  - jekyll-feed
